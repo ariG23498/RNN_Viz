@@ -14,17 +14,17 @@ The input will be a sequence of characters and the output would be the immediate
 
 ![Problem.png](https://api.wandb.ai/files/authors/images/projects/126026/643ae901.png)
 
-<center>Character level language model</center>
+
 
 ### Feedforward
 
 We look into the recurrence formula for both the architectures.
 
-<img src="https://api.wandb.ai/files/authors/images/projects/126026/982cd0e9.png" alt="RNN_formula.png" style="zoom: 67%;" />
+![Recurrence RNN](https://api.wandb.ai/files/authors/images/projects/126026/982cd0e9.png)
 
 <center>Recurrence formula of RNN</center>
 
-<img src="https://api.wandb.ai/files/authors/images/projects/126026/d8dc8d9d.png" alt="LSTM.png" style="zoom: 25%;" />
+![Recurrence LSTM](https://api.wandb.ai/files/authors/images/projects/126026/d8dc8d9d.png)
 
 <center>Recurrence formula of LSTM</center>
 
@@ -32,11 +32,11 @@ We look into the recurrence formula for both the architectures.
 
 We look into the backpropagation formula for both the architectures.
 
-<img src="https://api.wandb.ai/files/authors/images/projects/126026/f27234c0.gif" alt="backprop.gif" style="zoom:25%;" />
+![Back RNN GIF](https://api.wandb.ai/files/authors/images/projects/126026/f27234c0.gif)
 
 <center>Backpropagation in RNN</center>
 
-<img src="https://api.wandb.ai/files/authors/images/projects/126026/72f4f51e.gif" alt="backpropLSTM.gif" style="zoom:25%;" />
+![Back LSTM GIF](https://api.wandb.ai/files/authors/images/projects/126026/72f4f51e.gif)
 
 <center>Backpropagation in RNN</center>
 
