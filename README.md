@@ -14,7 +14,7 @@ The input will be a sequence of characters and the output would be the immediate
 
 ![Problem.png](https://api.wandb.ai/files/authors/images/projects/126026/643ae901.png)
 
-
+<p align="center">Character level language model</p>
 
 ### Feedforward
 
@@ -22,11 +22,11 @@ We look into the recurrence formula for both the architectures.
 
 ![Recurrence RNN](https://api.wandb.ai/files/authors/images/projects/126026/982cd0e9.png)
 
-<center>Recurrence formula of RNN</center>
+<p align="center">Recurrence formula of RNN</p>
 
 ![Recurrence LSTM](https://api.wandb.ai/files/authors/images/projects/126026/d8dc8d9d.png)
 
-<center>Recurrence formula of LSTM</center>
+<p align="center">Recurrence formula of LSTM</p>
 
 ### Backpropagation
 
@@ -34,9 +34,9 @@ We look into the backpropagation formula for both the architectures.
 
 ![Back RNN GIF](https://api.wandb.ai/files/authors/images/projects/126026/f27234c0.gif)
 
-<center>Backpropagation in RNN</center>
+<p align="center">Backpropagation in RNN</p>
 
 ![LSTM_13.png](https://api.wandb.ai/files/authors/images/projects/126026/5f41651f.png)
 
-<center>Backpropagation in RNN</center>
+<p align="center">Backpropagation in LSTM</p>
 
