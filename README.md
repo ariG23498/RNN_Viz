@@ -36,7 +36,7 @@ We look into the backpropagation formula for both the architectures.
 
 <center>Backpropagation in RNN</center>
 
-![Back LSTM GIF](https://api.wandb.ai/files/authors/images/projects/126026/72f4f51e.gif)
+![LSTM_13.png](https://api.wandb.ai/files/authors/images/projects/126026/5f41651f.png)
 
 <center>Backpropagation in RNN</center>
 
