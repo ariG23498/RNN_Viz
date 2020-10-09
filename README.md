@@ -1,5 +1,9 @@
 # How do the sequence models work?
 
+### Reports
+1. **[Under the hood of RNNs](http://bit.ly/under_RNN)**
+2. **[Under the hood of LSMTs](http://bit.ly/under_LSTM)**
+
 ### Introduction
 
 The code-base contains `Numpy` implementations of two sequence model architectures, a vanilla `Recurrent Neural Network` and a vanilla `Long Short Term Memory`. This repository is for those who want to know what happens under the hood of these architectures.
